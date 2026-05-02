@@ -18,6 +18,8 @@ Welcome to the HPE Fitness and Cycling Club landing page
 
 - [Facebook][fb-hpefcc] - HPE Fitness and Cycling Club
 - [Strava][strava-hpefcc] - Team HPE Fitness and Cycling Club
+- [Github-Pages] - HPE Fitness and Cycling Club Landing Page
+- [Github-Org] - HPE Fitness and Cycling Club Github Organization
 - [HPE-Sharepoint][sp-hpefcc] - HPE Fitness and Cycling Club
 - [HPE-Viva-Engage][viva-hpefcc] - HPE Fitness and Cycling Club
 
@@ -30,4 +32,5 @@ Welcome to the HPE Fitness and Cycling Club landing page
 [sp-hpefcc]: https://hpe.sharepoint.com/teams/houstoncyclingclub/SitePages/Home.aspx
 [strava-hpefcc]: https://www.strava.com/clubs/1801489
 [viva-hpefcc]: https://engage.cloud.microsoft/main/org/hpe.com/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiIyNTIzNjg0NzAwMTYifQ
-
+[github-pages]: https://hpefcc.github.io/
+[github-org]: https://github.com/hpefcc
