@@ -21,8 +21,13 @@ Welcome to the HPE Fitness and Cycling Club landing page
 - [HPE-Sharepoint][sp-hpefcc] - HPE Fitness and Cycling Club
 - [HPE-Viva-Engage][viva-hpefcc] - HPE Fitness and Cycling Club
 
+## Site's QR Code
+
+![HPE Fitness and Cycling Club QR](assets/hpefcc-qr.png)
+
 [dan-bryant]: https://github.com/dan-bryant
 [fb-hpefcc]: https://www.facebook.com/people/HPE-Fitness-and-Cycling-Club/61573691438616/
 [sp-hpefcc]: https://hpe.sharepoint.com/teams/houstoncyclingclub/SitePages/Home.aspx
 [strava-hpefcc]: https://www.strava.com/clubs/1801489
 [viva-hpefcc]: https://engage.cloud.microsoft/main/org/hpe.com/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiIyNTIzNjg0NzAwMTYifQ
+
