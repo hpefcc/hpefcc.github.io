@@ -1,4 +1,8 @@
-# Upcomming Events
+# HPE Fitness and Cycling Club
+
+Welcome to the HPE Fitness and Cycling Club landing page
+
+## Upcomming Events
 
 - 2026 Bosque Tour de Norway (May 2026) - Clifton, TX - Contact [@dan-bryant][dan-bryant] if interested.
 - Ironman 70.3 Waco 2026 (Oct 2026) - Waco, TX - Forming teams contact [@dan-bryant][dan-bryant] if interested.
@@ -10,7 +14,7 @@
 - Ironman 70.3 Oceanside (Spring, 2027) - Oceanside, CA - Forming teams contact [@dan-bryant][dan-bryant] if interested.
 - MS150 2027 (Spring, 2027), La Grange, TX - Peacefull Waters Resort signup comming soon.
 
-# Links
+## Links
 
 - [[Facebook][fb-hpefcc]] HPE Fitness and Cycling Club
 - [[Strava][strava-hpefcc]] Team HPE Fitness and Cycling Club
