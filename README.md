@@ -2,9 +2,13 @@
 
 Welcome to the HPE Fitness and Cycling Club landing page
 
+## ANNOUNCEMENTS
+
+Join us May 16th in Clifton for the [Tour De Norway][norway]
+
 ## Upcoming Events
 
-- 2026 Bosque Tour de Norway (May 2026) - Clifton, TX - Contact [@dan-bryant][dan-bryant] if interested.
+- [2026 Bosque Tour de Norway][norway] (May 2026) - Clifton, TX - Contact [@dan-bryant][dan-bryant] if interested.
 - Ironman 70.3 Waco 2026 (Oct 2026) - Waco, TX - Forming teams contact [@dan-bryant][dan-bryant] if interested.
 - Oilman 70.3 Triathlon (Nov, 2026) - Conroe, TX - Forming teams contact [@dan-bryant][dan-bryant] if interested.
 - Chevron Marathon (Jan 2027) - Houston, TX - Join our team
@@ -34,3 +38,4 @@ Welcome to the HPE Fitness and Cycling Club landing page
 [viva-hpefcc]: https://engage.cloud.microsoft/main/org/hpe.com/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiIyNTIzNjg0NzAwMTYifQ
 [github-pages]: https://hpefcc.github.io/
 [github-org]: https://github.com/hpefcc
+[norway]: https://hpefcc.github.io/events/2026/clifton_tour_norway.html
