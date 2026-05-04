@@ -14,6 +14,9 @@ Tour de Norway is a series of Rides out of Clifton Texas.  There is an [18mi][18
 - [HPE Teams (Viva) Clifton Post][viva]
 - [HPEFCC Homepage][back]
 
+## Contact:
+- Contact [@dan-bryant][dan-bryant] if you want to join the race with us
+
 [tournorway]: https://www.tourdenorway.com/
 [18mi]: https://ridewithgps.com/routes/48931709
 [30mi]: https://ridewithgps.com/routes/49276351
@@ -27,3 +30,4 @@ Tour de Norway is a series of Rides out of Clifton Texas.  There is an [18mi][18
 [chat]: https://teams.microsoft.com/l/chat/19:f1487d0032d845a989d00bb2c8f978b9@thread.v2/conversations?context=%7B%22contextType%22%3A%22chat%22%7D
 [viva]: https://engage.cloud.microsoft/main/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMzgzOTc0ODk4MjIxMDU2MCJ9?trk_copy_link=V2
 [back]: https://hpefcc.github.io/index.html
+[dan-bryant]: https://github.com/dan-bryant
