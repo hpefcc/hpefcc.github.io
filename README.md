@@ -28,7 +28,7 @@ Join us May 16th in Clifton for the [Tour de Norway][norway]
 - [Facebook][fb-hpefcc] - HPE Fitness and Cycling Club
 - [Strava][strava-hpefcc] - Team HPE Fitness and Cycling Club
 - [Github-Pages][github-pages] - HPE Fitness and Cycling Club Landing Page
-- [Github-Org] - HPE Fitness and Cycling Club Github Organization
+- [Github-Org][github-org] - HPE Fitness and Cycling Club Github Organization
 - [HPE-Sharepoint][sp-hpefcc] - HPE Fitness and Cycling Club
 - [HPE-Viva-Engage][viva-hpefcc] - HPE Fitness and Cycling Club
 
