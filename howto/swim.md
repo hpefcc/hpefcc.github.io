@@ -21,7 +21,6 @@ My plan, spelled out below is pretty simple.  Start with simple sets of 25y spri
 * 84 x 25yd at a pace of 40sec / 25yd
 * 21 x 100yd at a pace of 2:40 / 100yd
 * 20 min time-trial should reach 750yd
-* 30 min time-trial should reach 1150yd
 * 40 min time-trail should reach 1500yd
 * 70 min time-trial should reach 2650yd (full time, overshoot distance)
 
@@ -29,7 +28,6 @@ My plan, spelled out below is pretty simple.  Start with simple sets of 25y spri
 * 76 x 25m at a pace of 44sec / 25m
 * 19 x 100m at a pace of 2:55 / 100m
 * 20 min time-trial should reach 700m
-* 30 min time-trial should reach 1050m
 * 40 min time-trail should reach 1350m
 * 70 min time-trial should reach 2400m (full time, overshoot distance)
 
