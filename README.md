@@ -20,6 +20,9 @@ Join us May 16th in Clifton for the [Tour De Norway][norway]
 - Ironman 70.3 Oceanside (Spring, 2027) - Oceanside, CA - Forming teams contact [@dan-bryant][dan-bryant] if interested.
 - MS150 2027 (Spring, 2027), La Grange, TX - Peaceful Waters Resort signup coming soon.
 
+## Training
+- [Ironman 70.3 Swim Plan][swim]
+
 ## Links
 
 - [Facebook][fb-hpefcc] - HPE Fitness and Cycling Club
@@ -41,5 +44,6 @@ Join us May 16th in Clifton for the [Tour De Norway][norway]
 [github-pages]: https://hpefcc.github.io/
 [github-org]: https://github.com/hpefcc
 [norway]: https://hpefcc.github.io/events/2026/clifton_tour_norway.html
+[swim]: https://hpefcc.github.io/howto/swim.html
 [sizzle]: https://www.mthccsummersizzle.org/
 [alz]: https://act.alz.org/site/TR?pg=entry&fr_id=20056
