@@ -3,7 +3,7 @@
 For the Ironman 70.3, the swim distance is 1.2mi / 1.9km openwater (no walls).  The race gives you roughly 70 minutes to finish before being disqualified.  To achieve this you realistically need to be able to swim the same distance in a pool about 20% faster (54min) than you would without walls (openwater).
 
 ## Pool Sizes
-Most gym pools are 25 yards, while there are a few that are 25 meters and a few olympic pools that are 50 meters.  I'll spell out some of the pacing assuming the shorter pools, and simply double it if you find a 50m pool to swim in.  The difference between 25m (SCM: short-course-meters) and 50m (LCM: long-course-meters) should be obvious, but you can pace out the pool.  25m is about 30-35 paces.  50m is about 65-75 paces.  There are Android and iOS AR Ruler apps that are surprisingly accurate to tell the difference between 25 yards (SCY: short-course-yards).
+Most gym pools are 25 yards, while there are a few that are 25 meters and a few olympic pools that are 50 meters.  I'll spell out some of the pacing assuming the shorter pools, and simply double it if you find a 50m pool to swim in.  The difference between 25m (SCM: short-course-meters) and 50m (LCM: long-course-meters) should be obvious, but you can pace out the pool.  25m is about 30-35 paces.  50m is about 65-75 paces.  There are Android and iOS AR Ruler apps that are surprisingly accurate to tell the difference between 25 yards (SCY: short-course-yards) and 25m.
 * 25y - SCY - most common in US gyms and rec centers
 * 25m - SCM - rare in the US, more common in Europe
 * 50m - LCM - common in college pools for olympic training
