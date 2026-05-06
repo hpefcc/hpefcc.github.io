@@ -13,7 +13,7 @@ Most gym pools are 25 yards, while there are a few that are 25 meters and a few 
 ## Training benchmarks
 Here are some basic goals if you're swimming to see if you're hitting the mark.  The basic idea is to time one length and see if you've hit the benchmark.  If you have difficulty swimming in a general sense, there are some good adult learn to swim programs.  I'm a member of WMST, and they offer a great [adult-learn-to-swim (ALTS) program][alts] (contact [wmst@wmst.net][wmst] for details).  There are also good programs through local YMCA as well.
 
-If you have some basic experience one popular program for adult swimmers is the [0-to-mile swim][0to1650] program ([archive link][arch0to1650]).  There is also still a lot of activity on reddit at [r/swimming][reddit], though I haven't checked there in a while.  Their [FAQ][faq] is still up and had good info though.
+If you have some basic experience one popular program for adult swimmers is the [0-to-mile][0to1650] swim program ([archive link][arch0to1650]).  There is also still a lot of activity on reddit at [r/swimming][reddit], though I haven't checked there in a while.  Their [FAQ][faq] is still up and had good info though.
 
 My plan, spelled out below is pretty simple.  Start with simple sets of 25y sprints looking at where you land on the time goals.  From there you can transition to sets of 100y sprints with time goals listed.  From there you can just work up to the 20/40/70min time trials to see if you can make time.
 
