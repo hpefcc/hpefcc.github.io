@@ -1,12 +1,12 @@
 # May 16, 2026 - [Bosque Tour de Norway][tournorway], Clifton, TX
 
-Tour de Norway is a series of Rides out of Clifton Texas.  There is an [18mi][18mi], [30mi][30mi], [39mi][39mi], [47mi][47mi] and [69mi][69mi] ride.  [Registration is Open][reg].  There are a few riders signed up for the 69mi route.  If you want to stay with the HPEFCC team, we are camping at [Meridian State Park][park] Friday night.  Packet pickup at Saturday 6:30am at Clifton HS.  Start will be from Clifton HS at 8am.
+Tour de Norway is a series of Rides out of Clifton Texas.  There is an [18mi][18mi], [30mi][30mi], [39mi][39mi], [47mi][47mi] and [69mi][69mi] ride.  [Registration is Open][reg].  There are a few riders signed up for the 69mi route.  If you want to stay with the HPEFCC team, we are camping at [Meridian State Park][park] Friday night.  Packet pickup on Saturday 6:30am at Clifton HS.  Start will be from Clifton HS at 8am.
 
 ## Details:
 - Registration: [Open][reg]
 - Club Camping: After 2pm, Friday, May 15 @ [Meridian Park][park] (~15 mi away from Clifton)
-- Packet Pickup: 6:30am - 8am, Saturday, May 16, [Clifton Highschool][start]
-- Route Start: 8am, Saturday, May 16 [Clifton Highschool][start]
+- Packet Pickup: 6:30am - 8am, Saturday, May 16, [Clifton High School][start]
+- Route Start: 8am, Saturday, May 16 [Clifton High School][start]
 
 ## Links:
 - [Club Event Link][self]
