@@ -1,5 +1,14 @@
 # May 16, 2026 - [Bosque Tour de Norway][tournorway], Clifton, TX
 
+## Update 
+
+![church][norway]
+
+Completed the whole 69 mi ride.  [Garmin reported][Garmin] just under 5 hours, but we spent about 10 minutes at each rest stop
+
+
+## Info
+
 Tour de Norway is a series of Rides out of Clifton Texas.  There is an [18mi][18mi], [30mi][30mi], [39mi][39mi], [47mi][47mi] and [69mi][69mi] ride.  [Registration is Open][reg].  There are a few riders signed up for the 69mi route.  If you want to stay with the HPEFCC team, we are camping at [Meridian State Park][park] Friday night.  Packet pickup on Saturday 6:30am at Clifton HS.  Start will be from Clifton HS at 8am.
 
 ## Details:
@@ -31,3 +40,5 @@ Tour de Norway is a series of Rides out of Clifton Texas.  There is an [18mi][18
 [viva]: https://engage.cloud.microsoft/main/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMzgzOTc0ODk4MjIxMDU2MCJ9?trk_copy_link=V2
 [back]: https://hpefcc.github.io/index.html
 [dan-bryant]: https://github.com/dan-bryant
+[norway]: assets/norway_church_garmin.png
+[Garmin]: https://livetrack.garmin.com/session/1418e419-8cea-851c-a22d-573846cda600/token/19792DCE8B90921793C390B3A5CEEC51
